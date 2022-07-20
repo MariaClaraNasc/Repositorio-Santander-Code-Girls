@@ -9,4 +9,4 @@ Este repositório reúne os conteúdos trabalhados durante o BOOTCAMP.
 
 - [Download Git](https://git-scm.com/downloads)
 
-- [Treinando Portugol] (https://portugol-webstudio.cubos.io/)
+
