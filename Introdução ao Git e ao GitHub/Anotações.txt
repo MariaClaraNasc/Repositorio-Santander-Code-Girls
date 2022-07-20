@@ -1,0 +1,3 @@
+Neste curso tive meu primeiro contato com o Git e com o GitHub, bem como a experiência de criar um repositório pela primeira vez (ele pode ser encontrado aqui no meu GitHub com o nome "livro de receitas") usando os comandos básicos que foram passados pelo professor Otávio durante o curso. 
+
+Daqui em diante o importante é seguir trabalhando e melhorando a cada dia e, consequentemente, a cada novo repositório.
