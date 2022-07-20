@@ -1,0 +1,1 @@
+Neste curso a professora Juliana nos incentiva a trabalhar nosso pensamento computacional, além de tratar sobre os paradigmas das linguagens de programação, bem como indica um site onde podemos treinar o nosso desenvolvimento de algoritmos em portugol (linguagem mais simples e parecida com a nossa linguagem usual)
